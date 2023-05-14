@@ -45,4 +45,4 @@ class TestConsole(unittest.TestCase):
         self.assertTrue(issubclass(amenity1.__class__, BaseModel))
         self.assertTrue(issubclass(state1.__class__, BaseModel))
         self.assertTrue(issubclass(rev1.__class__, BaseModel))
-        self.assertTrue(issubclass(place1.__class__, BaseModel)
+        self.assertTrue(issubclass(place1.__class__, BaseModel))
