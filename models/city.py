@@ -16,7 +16,7 @@ class City(BaseModel):
     This is the City Class ...
 
     Attributes:
-        state_id (str): The UUID of the State the City belongs to
+        state_id (str): The UUID of the State the City belongs t
         name (str): The City name
 
     """
