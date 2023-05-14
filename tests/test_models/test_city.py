@@ -33,4 +33,4 @@ class Testcity(unittest.TestCase):
         Tests if Class inherits from BaseModel.
         """
         city1 = City()
-        self.assertTrue(issubclass(city1.__class__, BaseModel))
+        self.assertTrue(issubclass(city1.__class__, BaseModel)
